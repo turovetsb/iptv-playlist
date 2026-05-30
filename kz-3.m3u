@@ -13,7 +13,8 @@ http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Business",RBK-TV
 http://92.50.128.180/utv/1358/index.m3u8
-
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные" ,Пятница!
+https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 group-title="Казахтелеком",Первый канал
 http://89.218.32.179:18000/play/a03q
 #EXTINF:-1 group-title="Казахтелеком",Первый канал Евразия
